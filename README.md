@@ -1,15 +1,15 @@
-# 🎮 StickBound
+# StickBound
 
 A web-based browser game built using HTML5, CSS, and JavaScript.
 
-## 🚀 Live Demo
+## Live Demo
 
 Play the game directly in your browser:  
-👉 **[Play StickBound Live](https://sakshamp30-oss.github.io/StickBound/)**
+ **[Play StickBound Live](https://sakshamp30-oss.github.io/StickBound/)**
 
 ---
 
-## 📌 Features
+##  Features
 
 - **Interactive Gameplay:** Play directly from your browser with no installation required.
 - **Fast & Lightweight:** Pure HTML, CSS, and JavaScript with zero external dependencies.
@@ -17,7 +17,7 @@ Play the game directly in your browser:
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - **HTML5** - Game canvas and structure
 - **CSS3** - Styling and layout
@@ -25,7 +25,7 @@ Play the game directly in your browser:
 
 ---
 
-## 💻 Local Setup & Development
+## Local Setup & Development
 
 To run this project locally on your machine:
 
